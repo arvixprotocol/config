@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Developers",
+      "links": [
+        {
+          "text": "Documentation",
+          "url": "https://docs.arvix.network/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/arvixprotocol"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {
+          "text": "Twitter (X)",
+          "url": "https://twitter.com/arvixprotocol"
+        },
+        {
+          "text": "Telegram",
+          "url": "https://t.me/arvixprotocol"
+        },
+        {
+          "text": "Blog",
+          "url": "https://blog.arvix.network/"
+        }
+      ]
+    },
+    {
+      "title": "About Arvix",
+      "links": [
+        {
+          "text": "About",
+          "url": "https://arvix.network"
+        }
+      ]
+    },
+    {
+        "title": "Tools",
+        "links": [
+          {
+            "text": "Arvix Dex & Bridge",
+            "url": "https://Arvixdex.com"
+          },
+          {
+            "text": "Faucet Testnet",
+            "url": "https://claim-testnet.arvix.network/"
+          },
+          {
+            "text": "Arvix Validators",
+            "url": "https://validator.arvix.network"
+          },
+          {
+            "text": "Arvix Chart & Info",
+            "url": "https://info.arvix.network"
+          }
+        ]
+      }
+  ]
+  

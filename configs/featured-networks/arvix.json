@@ -1,0 +1,15 @@
+[{
+    "title": "Arvix Testnets",
+    "url": "https://testnet.arvixscan.com",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arvix.svg",
+    "isActive": true
+},
+{
+    "title": "Arbitrum Mainnets",
+    "url": "https://arvixscan.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arvix.svg",
+    "isActive": false
+}
+]

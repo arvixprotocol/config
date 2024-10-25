@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <path fill="url(#zilliqa-dark_svg__a)" d="M20.92 14.338 9.299 20.066l11.623 5.497V30L4 21.987v-4.371l11.755-5.795L4 6.258V1.821l16.92 8.013v4.504Z"/>
+  <path fill="url(#zilliqa-dark_svg__b)" d="M4 1.821 8.47 0l16.92 8.013-4.47 1.821L4 1.821Z"/>
+  <path fill="url(#zilliqa-dark_svg__c)" d="m20.92 14.338 4.47-1.821V8.013l-4.47 1.822v4.503Z"/>
+  <path fill="url(#zilliqa-dark_svg__d)" d="M20.92 25.563v-8.874l4.47-2.053v13.543L20.92 30v-4.437Z"/>
+  <defs>
+    <linearGradient id="zilliqa-dark_svg__a" x1="20.934" x2="6.815" y1="30.172" y2="6.384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05707E"/>
+      <stop offset=".52" stop-color="#2B9297"/>
+      <stop offset="1" stop-color="#4DBBBA"/>
+    </linearGradient>
+    <linearGradient id="zilliqa-dark_svg__b" x1="4.844" x2="24.974" y1="1.381" y2="8.599" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05707E"/>
+      <stop offset=".52" stop-color="#2B9297"/>
+      <stop offset="1" stop-color="#4DBBBA"/>
+    </linearGradient>
+    <linearGradient id="zilliqa-dark_svg__c" x1="20.924" x2="25.394" y1="11.182" y2="11.182" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05707E"/>
+      <stop offset=".52" stop-color="#2B9297"/>
+      <stop offset="1" stop-color="#4DBBBA"/>
+    </linearGradient>
+    <linearGradient id="zilliqa-dark_svg__d" x1="23.103" x2="23.205" y1="13.665" y2="29.96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05707E"/>
+      <stop offset=".52" stop-color="#2B9297"/>
+      <stop offset="1" stop-color="#4DBBBA"/>
+    </linearGradient>
+  </defs>
+</svg>
