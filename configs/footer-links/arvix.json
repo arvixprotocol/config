@@ -17,15 +17,19 @@
       "links": [
         {
           "text": "Twitter (X)",
-          "url": "https://twitter.com/arvixprotocol"
+          "url": "https://x.com/ArvixBlockchain"
         },
         {
-          "text": "Telegram",
-          "url": "https://t.me/arvixprotocol"
+          "text": "Telegram Channel",
+          "url": "https://t.me/arvixnews"
+        },
+        {
+          "text": "Telegram Portal",
+          "url": "https://t.me/ArvixPortal"
         },
         {
           "text": "Blog",
-          "url": "https://blog.arvix.network/"
+          "url": "https://medium.com/@arvixblockchain"
         }
       ]
     },
